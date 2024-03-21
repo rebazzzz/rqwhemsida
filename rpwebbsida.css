@@ -1,0 +1,73 @@
+@media screen and (min-width: 429px){
+    #hela_sidan{
+    margin: auto;
+    width: 50%;}
+
+    div{
+    color: white;}
+
+
+
+    .colomun{
+    width: 32%;
+    background-color: red;
+    border: 1px solid;
+    height: 35%;
+    display: flex;
+    align-items: center;
+    justify-content: center;}
+
+    #container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 150px;}
+
+
+
+
+
+
+    #nav{
+    width: 65%;
+    background-color: red;
+    border: 1px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;}
+
+    #LOGO{
+    width: 35%;
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+    #navlogo{
+    display: flex;
+    column-gap: 5px;}
+
+
+
+
+
+
+    #main{
+    width: 60%;
+    height: 300px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;}
+
+        #aside{
+    width: 40%;
+    height: 300px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;}
+
+    #mainaside{
+    display: flex;
+    column-gap: 10px; 
+    border: 1px solid;}}
